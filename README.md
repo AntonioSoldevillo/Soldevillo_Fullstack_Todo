@@ -1,8 +1,12 @@
 Django Api Endpoints
 Get All Tasks (GET) = https://backend-uv0r.onrender.com/api/todolist/
+
 Create a Task (POST) =https://backend-uv0r.onrender.com/api/todolist/
+
 Get a Specific Task (GET) = https://backend-uv0r.onrender.com/api/todolist/{id}/
+
 Update a Task (PUT) = https://backend-uv0r.onrender.com/api/todolist/{id}/
+
 Delete a Task (DELETE) = DELETE https://backend-uv0r.onrender.com/api/todolist/{id}/
 
 Report on the To-Do App:
